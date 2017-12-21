@@ -1,0 +1,12 @@
+Chrome 1
+Edge 2
+Firefox 3
+IE 4
+Opera 5
+Safari 6
+Unknown 7
+
+Mobile - 1
+Desktop - 2
+Tablet - 0
+Unknown 3
